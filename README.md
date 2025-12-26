@@ -74,7 +74,7 @@ Berikut adalah diagram database yang digunakan dalam project ini:
 
 ## ⚙️ Cara Menggunakan Database
 1. Buka **phpMyAdmin** atau **MySQL Workbench**
-2. Buat database baru (contoh: `db_krs_khs`)
+2. Buat database baru (pastikan nama database sama)
 3. Import file `krskhs.sql`
 4. Database siap digunakan
 
