@@ -18,22 +18,17 @@ Fokus utama project ini adalah:
 - penerapan primary key dan foreign key
 - konsistensi dan integritas data
 
----
 
 ## 🎯 Tujuan
 - Menerapkan konsep **database relasional**
 - Membuat struktur database yang rapi dan terorganisir
 - Melatih pembuatan database untuk sistem akademik
-- Menjadi portofolio database untuk kebutuhan magang / kerja
-
----
 
 ## Tools & Teknologi
 - **Database** : MySQL 
 - **Bahasa** : SQL  
 - **Tools** : phpMyAdmin 
 
----
 
 ##  Struktur Database
 Database ini terdiri dari beberapa tabel utama, antara lain:
@@ -41,11 +36,13 @@ Database ini terdiri dari beberapa tabel utama, antara lain:
 - Mata Kuliah
 - KRS
 - KHS
+- Dosen
+- Nilai
+- Sks
 - Relasi antar tabel sesuai sistem akademik
 
 Relasi database dirancang menggunakan **primary key** dan **foreign key** agar data saling terhubung dengan baik.
 
----
 
 ## 📁File dalam Repository
 <img width="1511" height="846" alt="databse" src="https://github.com/user-attachments/assets/60b50d50-4ce9-4eb1-836e-3d8e2f42c415" />
