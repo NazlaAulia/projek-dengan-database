@@ -67,12 +67,13 @@ Relasi database dirancang menggunakan **primary key** dan **foreign key** agar d
 Berikut adalah diagram database yang digunakan dalam project ini:
 
 ### ERD
-![ERD Database](erd fiks.png)
+<img width="992" height="605" alt="erd fiks" src="https://github.com/user-attachments/assets/7507d173-8ea3-4f0d-aa68-256760b51b3e" />
+
 
 ### Logical Diagram
 ![Logical Diagram](Logical.png)
 
----
+
 
 ## ⚙️ Cara Menggunakan Database
 1. Buka **phpMyAdmin** atau **MySQL Workbench**
